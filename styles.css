@@ -39,6 +39,7 @@ img {
 h1 {
   margin-top: auto;
   font-weight: 900;
+  color: hsl(223, 47%, 23%);
 }
 
 p {
@@ -64,7 +65,7 @@ p {
 .change {
   text-decoration: underline;
   color: hsl(245, 75%, 52%);
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .cancel {
@@ -77,6 +78,7 @@ p {
   justify-content: center;
   align-items: center;
   gap: 1em;
+  color: hsl(223, 47%, 23%);
 }
 
 .price {
